@@ -1,4 +1,4 @@
-#----------------------- Chapter -9- itertools and functional programming tools ---------------------------------
+#----------------------- Chapter -9- itertools and functional programming tools ----------------------------------
 
 #itertools - infinite iterators
 #itertools are the builtin functions in python which are useful for iterations
